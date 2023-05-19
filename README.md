@@ -25,7 +25,6 @@ The following technologies will be used to develop the project:
 - JavaScript: To add interactivity and implement the special page functionalities.
 - Backend Technology (optional): If required, a backend technology like Node.js or PHP can be used to store and retrieve data from a database.
 
-
 ## Conclusion
 
 This project aims to create a simple HTML/CSS website to showcase a concept, followed by the implementation of a special page that enables the website owner to manage available homes. By providing a user-friendly interface for the website owner to add and delete homes, the project will enhance the functionality and usefulness of the website.
