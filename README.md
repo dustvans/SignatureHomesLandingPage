@@ -25,15 +25,6 @@ The following technologies will be used to develop the project:
 - JavaScript: To add interactivity and implement the special page functionalities.
 - Backend Technology (optional): If required, a backend technology like Node.js or PHP can be used to store and retrieve data from a database.
 
-## Installation and Setup
-
-To run the project locally, follow these steps:
-
-1. Clone the project repository: `git clone https://github.com/your/repository.git`
-2. Open the project folder: `cd project-folder`
-3. Launch the website by opening the `index.html` file in your preferred web browser.
-
-If a backend technology is being used, additional setup steps will be provided in the respective documentation.
 
 ## Conclusion
 
